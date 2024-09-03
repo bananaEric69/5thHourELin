@@ -1,3 +1,7 @@
+#Name: Eric Lin
+#Class: 5th
+#assiagnment: HW3
+
 print('Hello world')
 
 santasList = ["Timmy", "Jimmy", "Kimmy", "Billy", "Bob"]
