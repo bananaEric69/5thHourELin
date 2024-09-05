@@ -4,5 +4,15 @@
 
 print(" Hello world")
 
+print("What is your name")
+input("")
+
+
 print("give a number")
-x = int("")
+x = input("")
+
+print("give me another number")
+y = input("")
+sum = int(y) + int(x)
+print(sum)
+
