@@ -59,4 +59,7 @@ enemies = {
 }
 
 outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Shadowheart"]['Damage']
+outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["LaeZel"]['Damage']
+outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Gale"]['Damage']
+outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Astarion"]['Damage']
 print(outcome)
