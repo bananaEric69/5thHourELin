@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added scenario 1">
-      <change afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added scenario 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726767545366</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added scenario 2">
+      <option name="closed" value="true" />
+      <created>1727201670762</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201670762</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added scenario 2">
+      <option name="closed" value="true" />
+      <created>1727201772795</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201772795</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +311,7 @@
     <MESSAGE value="Added scenario 1" />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="added scenario 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added scenario 1" />
+    <MESSAGE value="added scenario 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scenario 2" />
   </component>
 </project>

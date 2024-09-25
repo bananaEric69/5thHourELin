@@ -45,19 +45,19 @@ enemies = {
         "Damage" : 5,
         "Armor" : 50,
 },
-     "Jesus_cross" : {
+     "Jesus" : {
         "Health" : 600,
         "Damage" : 15,
         "Armor" : 100,
 }
 }
 
-print(enemies['Pirate_Monkey']['Damage'],enemies['Farmer']['Damage'],enemies['Wizard']['Damage'],enemies['Lil_Timmy']['Damage'],enemies['Jesus_cross']['Damage'])
+print(enemies['Pirate_Monkey']['Damage'],enemies['Farmer']['Damage'],enemies['Wizard']['Damage'],enemies['Lil_Timmy']['Damage'],enemies['Jesus']['Damage'])
 
 enemies['Pirate_Monkey']['Damage'] = int(input('monster1'))
 enemies['Farmer']['Damage'] = int(input('monster2'))
 enemies['Wizard']['Damage'] = int(input('monster3'))
 enemies['Lil_Timmy']['Damage'] = int(input('monster4'))
-enemies['Jesus_cross']['Damage'] = int(input('monster5'))
+enemies['Jesus']['Damage'] = int(input('monster5'))
 
-print(enemies['Pirate_Monkey']['Damage'],enemies['Farmer']['Damage'],enemies['Wizard']['Damage'],enemies['Lil_Timmy']['Damage'],enemies['Jesus_cross']['Damage'])
+print(enemies['Pirate_Monkey']['Damage'],enemies['Farmer']['Damage'],enemies['Wizard']['Damage'],enemies['Lil_Timmy']['Damage'],enemies['Jesus']['Damage'])

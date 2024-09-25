@@ -50,16 +50,12 @@ partyDictionary = {
 
 
 enemies = {
-    "Pirate_Monkey" : {
-        "Health" : 50,
-        "Damage" : 5,
-        "Armor" : 10,
-    },
-
+"Jesus" : {
+        "Health" : 1000,
+        "Damage" : 1,
+        "Armor" : 100,
+}
 }
 
-outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Shadowheart"]['Damage']
-outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["LaeZel"]['Damage']
-outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Gale"]['Damage']
-outcome = enemies["Pirate_Monkey"]["Health"] - partyDictionary["Astarion"]['Damage']
+outcome = enemies["Jesus"]["Health"] - partyDictionary["Shadowheart"]['Damage']
 print(outcome)
