@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added scenario 2">
+      <change afterPath="$PROJECT_DIR$/Homework 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,7 @@
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.Hello world.executor": "Run",
+    "Python.Homework 5.executor": "Run",
     "Python.Scenario 1.executor": "Run",
     "Python.Scenario 2.executor": "Run",
     "Python.hellow world.executor": "Run",
@@ -284,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727201772795</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added scenario 2">
+      <option name="closed" value="true" />
+      <created>1727287834238</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727287834238</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
