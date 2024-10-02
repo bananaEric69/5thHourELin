@@ -7,21 +7,15 @@ print('Hello world')
 
 num1 = int(input())
 
-if num1 % 2 == 0 and num1 % 3 == 0:
+if num1 % 2 == 0:
     print('your number us divisible by 2')
-    print('your number is divisible by 3')
-    print('your number is not divisible by 3')
     x = num1 / 2
     print(x)
-else:
+else num1 % 3 == 0:
     print('your number is divisible by 2 ')
     y = num1 / 3
     print(y)
-
-
-
-
-
+else:
 
 
 
