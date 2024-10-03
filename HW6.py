@@ -1,7 +1,6 @@
 #Name: Eric Lin
 #Class: 5th hour
 #Assignment: HW6
-from selectors import SelectSelector
 
 print('Hello world')
 
