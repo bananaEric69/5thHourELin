@@ -8,7 +8,10 @@ wifi = True
 login = True
 admin = True
 
+admin_login_count = 0
 
+if wifi == True
+    print("Welcome")
 
 #1. Print Hello World!
 
