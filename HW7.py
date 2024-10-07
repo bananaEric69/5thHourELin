@@ -4,14 +4,26 @@
 
 print('Hello world')
 
+time = 0
 wifi = True
 login = True
 admin = True
 
-admin_login_count = 0
 
-if wifi == True
-    print("Welcome")
+
+if wifi == True :
+    if login == True :
+        if admin == True :
+            print('Welcome sir')
+            time += 1
+        else:
+            print('admin has an Error')
+    else:
+        print('login has an Error')
+else:
+    print('wifi has an Error')
+
+
 
 #1. Print Hello World!
 
