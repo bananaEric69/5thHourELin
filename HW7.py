@@ -16,6 +16,7 @@ if wifi == True :
         if admin == True :
             print('Welcome sir')
             time += 1
+            print(time)
         else:
             print('admin has an Error')
     else:
