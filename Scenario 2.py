@@ -11,7 +11,6 @@ print("hello world")
 #the party dictionary, insert an enemy into the code below, and
 #testing to see if a player character can damage the with a printed
 #test that shows the enemy health has changed.
-
 partyDictionary = {
     "LaeZel" : {
         "Race" : "Githyanki",
