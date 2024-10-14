@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added HW7">
-      <change afterPath="$PROJECT_DIR$/Scenario 3.py" afterDir="false" />
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added Scenario 3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
     &quot;Python.Homework 5.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
     &quot;Python.hellow world.executor&quot;: &quot;Run&quot;,
     &quot;Python.playground.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -386,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728495587980</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="added Scenario 3.">
+      <option name="closed" value="true" />
+      <created>1728497926989</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1728497926989</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,6 +426,7 @@
     <MESSAGE value="added HW5" />
     <MESSAGE value="added HW6" />
     <MESSAGE value="added HW7" />
-    <option name="LAST_COMMIT_MESSAGE" value="added HW7" />
+    <MESSAGE value="added Scenario 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="added Scenario 3." />
   </component>
 </project>

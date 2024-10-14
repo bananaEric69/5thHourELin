@@ -2,9 +2,12 @@
 #Class: 5th hour
 #Assignment: HW7
 
+#1. Print Hello World!
 print('Hello world')
 
 time = 0
+#2. Create three different boolean variables named wifi, login, and admin.
+
 wifi = True
 login = True
 admin = True
@@ -26,9 +29,8 @@ else:
 
 
 
-#1. Print Hello World!
 
-#2. Create three different boolean variables named wifi, login, and admin.
+
 
 #3. Create a separate integer variable that denotes the number of times
 #someone with admin credentials has logged in.
