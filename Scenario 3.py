@@ -25,11 +25,17 @@ print("Hello WORLD!!!!!!!!!!!!!!!!!!!!!!!!!")
 # - a damage roll (a number that varies based on weapon/spell)
 # - and an Armor Class (somewhere between 10 and 17).
 
+# - Lae'Zel uses a greatsword: 2d6 + 3
+# - Shadowheart uses a mace: 1d6 + 2
+# - Gale uses the firebolt spell: 1d10
+# - Astarion uses a shortbow: 1d6 + 4
+
 #Step 4: Make sure every enemy and party member has an attack modifier (fixed)
 
 #Step 5: Make sure every enemy and party member has an armor class (AC) (fixed)
 
 #Step 6: Make every enemy and party member has a damage roll (random)
+import random
 
 #Party Dictionary Goes Here
 partyDictionary = {
@@ -39,7 +45,8 @@ partyDictionary = {
         "Background" : "Soldier",
         "Health" : 12,
         "AC" : 17,
-        "Damage" : 10,
+        "Damage" : random.randint(1,6) +  random.randint(1,6) + 3,
+        "attack Mod": 4,
     },
     "Shadowheart" : {
         "Race" : "Half-Elf",
@@ -47,7 +54,8 @@ partyDictionary = {
         "Background" : "Acolyte",
         "Health" : 10,
         "AC" : 14,
-        "Damage" : 5,
+        "Damage" : random.randint(1,6) + 2,
+         "attack Mod": 4,
     },
     "Gale" : {
         "Race" : "Human",
@@ -55,7 +63,8 @@ partyDictionary = {
         "Background" : "Sage",
         "Health" : 8,
         "AC" : 14,
-        "Damage" : 17,
+        "Damage" : random.randint(1,10),
+        "attack Mod": 4,
     },
     "Astarion" : {
         "Race" : "High Elf",
@@ -63,30 +72,35 @@ partyDictionary = {
         "Background" : "Charlatan",
         "Health" : 10,
         "AC" : 14,
-        "Damage" : 12,
+        "Damage" : random.randint(1,6) + 4,
+        "attack Mod": 4,
     }
 }
 #Enemy Dictionary Goes Here
 enemies = {
     "Pirate_Monkey" : {
         "Health" : 20,
-        "Damage" : 5,
-        "Armor" : 14,
+        "Damage" : random.randint(1,6) + random.randint(1,6) + 1,
+        "AC" : 14,
+        "attack Mod": 4,
     },
     "Farmer" : {
         "Health" : 10,
-        "Damage" : 3,
-        "Armor" : 10,
+        "Damage" : random.randint(1,6),
+        "AC" : 10,
+        "attack Mod" : 4,
 },
     "Wizard" : {
         "Health" : 25,
-        "Damage" : 4,
-        "Armor" : 16,
+        "Damage" : random.randint(1,6) + 3,
+        "AC" : 16,
+        "attack Mod": 4,
 },
     "Knight" : {
         "Health" : 15,
-        "Damage" : 5,
-        "Armor" : 10,
+        "Damage" : random.randint(1,6) + 2,
+        "AC" : 10,
+        "attack Mod": 4,
 },
 }
 
@@ -118,12 +132,11 @@ enemies = {
 #Combat Code Goes Here
 
 
-import random
 
 
-stat1 = [random.randint(1,6)]
-print(stat1)
-print(stat1[0]+enemies["Pirate_Monkey"]['Damage'] - partyDictionary['Shadowheart']['AC'])
+
+
+
 
 
 
