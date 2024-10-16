@@ -1,6 +1,7 @@
 #Name: Eric Lin
 #Class: 5th Hour
 #Assignment: Scenario 3
+from pprint import PrettyPrinter
 from random import randint
 
 print("Hello WORLD!!!!!!!!!!!!!!!!!!!!!!!!!")
@@ -131,6 +132,25 @@ enemies = {
 
 #Combat Code Goes Here
 
+if random.randint(1,20) + partyDictionary['Shadowheart']['attack Mod'] >= (enemies["Pirate_Monkey"]["AC"]):
+    enemies['Pirate_Monkey']["Health"] -= partyDictionary['Shadowheart']['Damage']
+    if enemies['Pirate_Monkey']['Health'] <=0:
+        print("Pirate_Monkey has fallen ")
+        exit()
+    else:
+        print("Pirate_MOnkey is still alive")
+else:
+    print("Missed")
+print('enemy Attacks')
+if random.randint(1,20) + enemies['Pirate_Monkey']['attack Mod'] >= (partyDictionary["Shadowheart"]["AC"]):
+    partyDictionary['Shadowheart']["Health"] -= enemies["Pirate_Monkey"]["Damage"]
+    if partyDictionary['Shadowheart']['Health'] <=0:
+        print("Shadowheart has fallen ")
+        exit()
+    else:
+        print("Shadow heart is still alive")
+else:
+    print("Missed")
 
 
 
