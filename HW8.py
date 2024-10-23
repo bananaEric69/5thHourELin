@@ -43,4 +43,4 @@ listVar29 = listVar15
 intVar30 = 6
 
 #3. Take all the variables you labeled as "integer", add them together, and print the result.
-print(strVar3 + strVar5)
+print(intVar1 + intVar7 + intVar10 + intVar18 + intVar21 + intVar22 + intVar23 + intVar30)
