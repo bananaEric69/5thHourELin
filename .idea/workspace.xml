@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="added Hw8" />
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added Hw9">
+      <change afterPath="$PROJECT_DIR$/HW10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -57,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW1.executor": "Run",
+    "Python.HW10.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -64,6 +67,7 @@
     "Python.HW6.executor": "Run",
     "Python.HW7.executor": "Run",
     "Python.HW8.executor": "Run",
+    "Python.HW9.executor": "Run",
     "Python.Hello world.executor": "Run",
     "Python.Homework 5.executor": "Run",
     "Python.Scenario 1.executor": "Run",
@@ -440,7 +444,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729707603891</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Added Hw9">
+      <option name="closed" value="true" />
+      <created>1729792659895</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1729792659895</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +484,10 @@
     <MESSAGE value="added HW6" />
     <MESSAGE value="added HW7" />
     <MESSAGE value="added Scenario 3." />
+    <MESSAGE value="added Hw" />
     <MESSAGE value="added Hw8" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Hw8" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Added Hw9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Hw9" />
   </component>
 </project>
