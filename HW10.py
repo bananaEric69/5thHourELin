@@ -27,8 +27,9 @@ import time
 #3. Create a while loop that repeats until the user
 #inputs the number 0.
 o = 0
-
+o = int(input("enter a number"))
 while o <= 10000:
     print(o)
-    time.sleep(0.5)
+    time.sleep(0.2)
     o += 1
+
