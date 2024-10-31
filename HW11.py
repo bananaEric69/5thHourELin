@@ -10,3 +10,19 @@
 
 #Create a while loop that follows the rules of the game.
 #(HINT: Look back to HW6 on how to see if a number is divisible by another)
+
+i = 1
+while i <= 100:
+
+    if i % 3 == 0 and i % 5 == 0:
+        print("fizzbuzz")
+
+    elif i % 3 == 0:
+        print("fizz")
+
+    elif i % 5 == 0:
+        print("buzz")
+    else:
+        print(i)
+
+    i += 1
