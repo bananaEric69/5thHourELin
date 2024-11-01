@@ -2,18 +2,23 @@
 #Class: 5th
 #Assigment: Playground
 
+import random
+
 
 print(" Hello world")
 
-print("What is your name")
-input("")
+
 
 
 print("give a number")
 x = input("")
 
-print("give me another number")
-y = input("")
-sum = int(y) + int(x)
-print(sum)
+print("here is a random number")
+if random.randint(1,1000) + int(x):
+    print(random.randint(1,1000))
+else:
+    print("now what is the anwser")
+
+
+
 
