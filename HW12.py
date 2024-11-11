@@ -6,7 +6,7 @@ import time
 
 #1. Create a for loop with variable i that counts down from 5 to 1
 #and then prints "Hello World!" at the end.
-"""
+
 for h in range  (5,0,-1):
     time.sleep(0.4)
     print(h)
@@ -25,7 +25,7 @@ for i in range (0,31,2):
 animal = ["Tiger", "Lion", "Turtle", "Fish", "Fox"]
 for i in animal:
     print(i)
-    """
+
 #4. Create a for loop that spells out a word you input backwards.
 #(HINT: Google "How to reverse a string in Python")
 

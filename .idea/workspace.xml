@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added Hw11">
-      <change afterPath="$PROJECT_DIR$/HW12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added Hw12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,14 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00003" summary="initial commit">
-      <option name="closed" value="true" />
-      <created>1723832174647</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723832174647</updated>
     </task>
     <task id="LOCAL-00004" summary="initial commit">
       <option name="closed" value="true" />
@@ -494,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730485068340</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Added Hw12">
+      <option name="closed" value="true" />
+      <created>1730920355130</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1730920355130</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,6 +529,7 @@
     <MESSAGE value="Added Hw9" />
     <MESSAGE value="Added Hw10" />
     <MESSAGE value="Added Hw11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Hw11" />
+    <MESSAGE value="Added Hw12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Hw12" />
   </component>
 </project>
