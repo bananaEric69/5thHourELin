@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="changes to HW12">
-      <change afterPath="$PROJECT_DIR$/HW13.py" afterDir="false" />
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="changes to HW13">
+      <change afterPath="$PROJECT_DIR$/HW14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW13.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +57,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hellow world.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW1.executor": "Run",
+    "Python.HW10.executor": "Run",
+    "Python.HW11.executor": "Run",
+    "Python.HW12.executor": "Run",
+    "Python.HW13.executor": "Run",
+    "Python.HW14.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.HW8.executor": "Run",
+    "Python.HW9.executor": "Run",
+    "Python.Hello world.executor": "Run",
+    "Python.Homework 5.executor": "Run",
+    "Python.Scenario 1.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "Python.hellow world.executor": "Run",
+    "Python.playground.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th Hour ELin" />
@@ -101,14 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added HW1">
-      <option name="closed" value="true" />
-      <created>1724090952890</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1724090952890</updated>
     </task>
     <task id="LOCAL-00006" summary="Added HW2">
       <option name="closed" value="true" />
@@ -494,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731350620382</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="changes to HW13">
+      <option name="closed" value="true" />
+      <created>1731439090747</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1731439090747</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,7 +512,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" added" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW" />
@@ -534,6 +536,7 @@
     <MESSAGE value="Added Hw11" />
     <MESSAGE value="Added Hw12" />
     <MESSAGE value="changes to HW12" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to HW12" />
+    <MESSAGE value="changes to HW13" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to HW13" />
   </component>
 </project>
