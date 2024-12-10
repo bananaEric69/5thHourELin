@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added Scenario 4">
-      <change afterPath="$PROJECT_DIR$/Scenario 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added Scenario 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,14 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added HW3">
-      <option name="closed" value="true" />
-      <created>1724869024742</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1724869024742</updated>
     </task>
     <task id="LOCAL-00012" summary="Added HW3">
       <option name="closed" value="true" />
@@ -498,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732216769957</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Added Scenario 5">
+      <option name="closed" value="true" />
+      <created>1733771906993</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1733771906993</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW" />
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW3" />
     <MESSAGE value="Added name, class, and assiagnment" />
@@ -538,6 +534,7 @@
     <MESSAGE value="changes to HW13" />
     <MESSAGE value="changes to HW14" />
     <MESSAGE value="Added Scenario 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 4" />
+    <MESSAGE value="Added Scenario 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scenario 5" />
   </component>
 </project>
