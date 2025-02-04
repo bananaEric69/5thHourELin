@@ -6,6 +6,7 @@ import random
 #1. Import the "random" library and create a def function that prints "Hello World!"
 def hello_world():
     print("Hello World!")
+hello_world()
 #2. Create a list called beanBag and add at least 5 different colored beans to the list as strings.
 beanBag = ["OrangeBean","PurpleBean","RedBean","BlueBean","GreenBean"]
 #3. Create a def function that pulls a random bean out of the beanBag list, prints which bean you pulled, and then removes it from the list.

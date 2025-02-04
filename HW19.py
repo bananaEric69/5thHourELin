@@ -1,7 +1,7 @@
 #Name:
 #Class: 5th Hour
 #Assignment: HW19
-import HW15
+from HW15 import *
 #1. Import all the functions from the HW15 file.
 def hw15():
     hello_world()
