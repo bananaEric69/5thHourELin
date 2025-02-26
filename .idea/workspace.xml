@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added HW20">
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="changes to playground">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
     </list>
@@ -116,14 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00022" summary="added scenario 1">
-      <option name="closed" value="true" />
-      <created>1726767545366</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1726767545366</updated>
     </task>
     <task id="LOCAL-00023" summary="added scenario 2">
       <option name="closed" value="true" />
@@ -509,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740164447496</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="changes to playground">
+      <option name="closed" value="true" />
+      <created>1740511088553</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740511088553</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added scenario 1" />
     <MESSAGE value="added scenario 2" />
     <MESSAGE value="added HW5" />
     <MESSAGE value="added HW6" />
@@ -549,6 +548,7 @@
     <MESSAGE value="Added HW 19" />
     <MESSAGE value="Added Scenario 6 and 7" />
     <MESSAGE value="Added HW20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW20" />
+    <MESSAGE value="changes to playground" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to playground" />
   </component>
 </project>
