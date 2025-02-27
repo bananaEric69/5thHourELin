@@ -23,7 +23,6 @@ orange = 13
 horse_shoe = 14
 watermelon = 15
 def slot_machine():
-
     print("Enter a coin to start gambling")
     player = int(input("Press 1 to start, Change your mind press 2"))
     if player == 1:
