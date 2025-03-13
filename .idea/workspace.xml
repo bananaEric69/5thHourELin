@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Changes to Scenario 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,14 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00029" summary="added HW6">
-      <option name="closed" value="true" />
-      <created>1727892144428</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1727892144428</updated>
     </task>
     <task id="LOCAL-00030" summary="added HW6">
       <option name="closed" value="true" />
@@ -514,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741717091971</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Changes to Scenario 8">
+      <option name="closed" value="true" />
+      <created>1741888433567</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1741888433567</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
