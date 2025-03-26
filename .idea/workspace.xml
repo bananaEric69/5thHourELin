@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Changes to Scenario 8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b826400-5239-4782-b6ec-4bfa84195edd" name="Changes" comment="Added HW24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,14 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830588959</updated>
-    </task>
-    <task id="LOCAL-00031" summary="added HW6">
-      <option name="closed" value="true" />
-      <created>1727978352163</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1727978352163</updated>
     </task>
     <task id="LOCAL-00032" summary="added HW6">
       <option name="closed" value="true" />
@@ -514,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741889691403</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Added HW24">
+      <option name="closed" value="true" />
+      <created>1742926657647</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1742926657647</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Hw" />
     <MESSAGE value="added Hw8" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Added Hw9" />
@@ -554,6 +551,7 @@
     <MESSAGE value="Added HW22" />
     <MESSAGE value="Added HW23 and Scenario 8" />
     <MESSAGE value="Changes to Scenario 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to Scenario 8" />
+    <MESSAGE value="Added HW24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW24" />
   </component>
 </project>
